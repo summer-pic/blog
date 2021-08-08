@@ -612,6 +612,13 @@ links:
     domain: blog.thun888.xyz
     }
     - {        
+    title: '青阳のBlog',
+    link: 'https://www.hipyt.cn',
+    intro: '一个爱琢磨的人',
+    image: 'https://pic.hipyt.cn/pic/2021/01/14/adcb59359bbb9.jpeg',
+    domain: www.hipyt.cn
+    }
+    - {        
     title: '友链还有空位！',
     link: 'https://github.com/ChenYFan/blog/blob/master/themes/fluid/_config.yml',
     intro: 点我跑去提交PR！,
